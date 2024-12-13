@@ -17,7 +17,7 @@ def divide(a, b):
 
 
 def calculator():
-    print("Welcome to the Python Calculator!")
+    print("Python Calculator!")
 
     while True:
         print("\nOptions:")
